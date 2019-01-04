@@ -4,6 +4,6 @@
 
 puts "Squawk"
 
-def parrot(phrase = parrot)
+def parrot(phrase == parrot)
 puts "Pretty bird"
 end

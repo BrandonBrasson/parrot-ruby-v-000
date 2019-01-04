@@ -7,6 +7,3 @@
 def parrot(Squawk)
 puts "Pretty bird!"
 end
-
-def parrot
-end

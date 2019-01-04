@@ -4,6 +4,12 @@
 
 
 
-def parrot(Squawk)
-puts "Pretty bird!"
+def parrot(name ="Squawk!")
+puts "#{name}"
+return "#{name}"
+end
+
+def parrot(am = "parrot")
+puts "#{am}"
+return "#{am}"
 end

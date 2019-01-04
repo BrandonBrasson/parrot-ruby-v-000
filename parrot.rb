@@ -9,5 +9,5 @@ puts "Pretty bird!"
 end
 
 def parrot
-return "Pretty bird!"
+return puts "Pretty bird!"
 end

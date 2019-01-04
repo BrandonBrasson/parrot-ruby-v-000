@@ -9,7 +9,7 @@ puts "#{name}"
 return "#{name}"
 end
 
-def parrot(am = "parrot")
+def parrot(am = "Squawk!")
 puts "#{am}"
 return "#{am}"
 end

@@ -9,5 +9,4 @@ puts "Pretty bird!"
 end
 
 def parrot
-return puts "Pretty bird!"
 end

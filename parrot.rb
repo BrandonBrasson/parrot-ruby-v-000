@@ -5,5 +5,5 @@
 puts "Squawk"
 
 def parrot(phrase == parrot)
-puts "Pretty bird"
+puts "Pretty bird!"
 end

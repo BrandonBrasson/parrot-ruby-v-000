@@ -7,3 +7,7 @@ puts "Squawk"
 def parrot(parrot)
 puts "Pretty bird!"
 end
+
+def parrot(parrot)
+return "Pretty bird!"
+end

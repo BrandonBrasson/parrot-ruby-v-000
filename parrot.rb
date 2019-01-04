@@ -4,10 +4,10 @@
 
 puts "Squawk"
 
-def parrot(parrot)
+def parrot(Squawk)
 puts "Pretty bird!"
 end
 
-def parrot(parrot)
+def parrot()
 return "Pretty bird!"
 end
